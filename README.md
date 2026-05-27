@@ -106,7 +106,7 @@ the role that commands the highest premium in Industry 4.0.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDDANIYALM&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMEDDANIYALM&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MOHAMMEDDANIYALM&theme=tokyonight&hide_border=true)
 
 ---
 
