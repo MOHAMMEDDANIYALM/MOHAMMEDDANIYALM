@@ -102,11 +102,18 @@ the role that commands the highest premium in Industry 4.0.
 
 ## 📊 GitHub Stats
 
-![Daniyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHAMMEDDANIYALM&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMMEDDANIYALM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDDANIYALM&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDDANIYALM&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MOHAMMEDDANIYALM&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MOHAMMEDDANIYALM&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MOHAMMEDDANIYALM&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
