@@ -60,7 +60,7 @@ the role that commands the highest premium in Industry 4.0.
 **Other**
 - Cybersecurity — Infosys Springboard (Oct 2025)
 - AI Tools Workshop — be10X (Mar 2026)
-- E-Techh Hacks 2025 — Xenotome Labs (Dec 2025)
+- E-Techh Hacks 2025 — Xenotome Labs (hackathon) (Dec 2025)
 
 ---
 
